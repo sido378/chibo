@@ -49,7 +49,12 @@ button:hover {
 }
 
 .input-wrapper {
+  margin-left:  20px;
   margin-right: 10px;
+}
+
+.input-wrapper input[type="radio"]{
+  display: none;
 }
 
 .input-wrapper label {
